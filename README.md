@@ -36,7 +36,7 @@ Contexto de Segurança: No início, a IA sugeria esconderijos genéricos. Refine
 
 Associação Positiva: Documentei a importância do ciclo "Caçar-Capturar-Matar-Comer" antes das visitas, algo que a IA só detalhou após eu pedir para focar em rotinas de gasto de energia.
 
-📖 3. Curadoria de Fontes
+📖 4. Curadoria de Fontes
 Para alimentar a inteligência do caderno, foram selecionadas fontes diversificadas:
 
 📚 Fontes em Texto:
@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=gdl-uazSasM
 https://www.youtube.com/watch?v=qDAvzVoYy0Y
 https://www.youtube.com/watch?v=op6HYjyJQCw
 
-4. Miniguia de Estudo (Entrega Final)
+5. Miniguia de Estudo (Entrega Final)
 📑 Resumos Estruturados
 Cat Mojo: A confiança inata do gato baseada na segurança ambiental. Um gato sem "Mojo" torna-se um "Gato Invisível".
 
